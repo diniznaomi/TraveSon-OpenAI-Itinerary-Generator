@@ -1,0 +1,12 @@
+li {
+    list-style-type: none;
+}
+.categories{
+    text-decoration: none;
+    color: #585757;
+    margin: 0.32rem;
+    text-align: center;
+}
+.categories:hover{
+    color: black;
+}
